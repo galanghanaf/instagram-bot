@@ -33,7 +33,7 @@ const postToInsta = async () => {
   });
 };
 
-const cronInsta = new CronJob("06 00 * * *", async () => {
+const cronInsta = new CronJob(process.env.IG_SCHEDULER, async () => {
   postToInsta();
   // console.log(photo);
 });

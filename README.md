@@ -12,20 +12,14 @@ Simple Instagram bot that posts a photo with captions
 
 note: this system tested in NodeJS 18.18.0
 
-- Setup
+- Setup `npm install`
 
-```
-npm install
-```
+- Rename `.env.example` to `.env`
 
-- How to use?
+- Fill every singgle key in `.env`
 
-```
-Rename `.env.example` to `.env`
-```
+- You can automaticaly daily post IG, using <a href="https://crontab.guru">crontab</a> `IG_SCHEDULER` in `.evn`
 
-```
-Fill every singgle key in `.env`
-```
+- Run `node index.js`
 
 - That's it, done.
