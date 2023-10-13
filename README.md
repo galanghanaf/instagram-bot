@@ -5,7 +5,7 @@ Simple Instagram bot that posts a photo with captions
 # Example
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/galanghanaf/instagram-bot/main/assets/img/example.jpg" alt="twitter-bot" height="450">
+    <img src="https://raw.githubusercontent.com/galanghanaf/instagram-bot/main/img/example.jpg" alt="instagram-bot" height="450">
 </p>
 
 # Installation
