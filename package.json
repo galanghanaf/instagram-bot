@@ -1,0 +1,26 @@
+{
+  "name": "instagram-bot",
+  "version": "1.0.0",
+  "description": "Simple Instagram bot that posts a photo with captions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/galanghanaf/instagram-bot.git"
+  },
+  "author": "Galang Hanafi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/galanghanaf/instagram-bot/issues"
+  },
+  "homepage": "https://github.com/galanghanaf/instagram-bot#readme",
+  "dependencies": {
+    "cron": "^3.1.1",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "instagram-private-api": "^1.45.3",
+    "request-promise": "^4.2.6"
+  }
+}
