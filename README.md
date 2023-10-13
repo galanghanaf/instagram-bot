@@ -18,7 +18,7 @@ note: this system tested in NodeJS 18.18.0
 
 - Fill every singgle key in `.env`
 
-- You can automaticaly daily post IG, using <a href="https://crontab.guru">crontab</a> `IG_SCHEDULER` in `.evn`
+- You can also automatically post IG, using <a href="https://crontab.guru">crontab</a> `IG_SCHEDULER` in `.evn`
 
 - Run `node index.js`
 
