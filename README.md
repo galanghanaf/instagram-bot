@@ -1,6 +1,6 @@
 # Instagram Bot
 
-Simple Instagram bot that posts a photo with captions
+Instagram bot that post a photo with captions
 
 # Example
 
