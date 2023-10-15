@@ -2,6 +2,9 @@
 
 Instagram bot that post a photo with captions
 
+# DISCLAIMER
+This bot was created for learning purposes.
+
 # Example
 
 <p align="center">
