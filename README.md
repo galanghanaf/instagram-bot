@@ -2,16 +2,16 @@
 
 Instagram bot that post a photo with captions
 
-# DISCLAIMER
+## DISCLAIMER
 This bot was created for learning purposes.
 
-# Example
+## Example
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/galanghanaf/instagram-bot/main/img/example.jpg" alt="instagram-bot" height="450">
 </p>
 
-# Installation
+## Installation
 
 note: this system tested in NodeJS 18.18.0
 
